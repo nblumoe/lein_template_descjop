@@ -85,7 +85,7 @@ see your app dir. looks like
 +-- Gruntfile.js
 +-- README.md
 +-- app
-|   +-- dev // deveropment mode dir
+|   +-- dev // development mode dir
 |   |   +-- index.html // entry html file
 |   |   +-- js
 |   |   |   +-- externs_front.js
